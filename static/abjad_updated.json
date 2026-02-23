@@ -1,0 +1,152 @@
+[
+    {
+      "no": 1,
+      "nama": "alif",
+      "link": "static/image/alif.jpg"
+    },
+    {
+      "no": 2,
+      "nama": "ba",
+      "link": "static/image/ba.jpg"
+    },
+    {
+      "no": 3,
+      "nama": "ta",
+      "link": "static/image/ta.jpg"
+    },
+    {
+      "no": 4,
+      "nama": "tsa",
+      "link": "static/image/tsa.jpg"
+    },
+    {
+      "no": 5,
+      "nama": "jim",
+      "link": "static/image/jiem.jpg"
+    },
+    {
+      "no": 6,
+      "nama": "ha'",
+      "link": "static/image/ha'.jpg"
+    },
+    {
+      "no": 7,
+      "nama": "kho",
+      "link": "static/image/kho.jpg"
+    },
+    {
+      "no": 8,
+      "nama": "dal",
+      "link": "static/image/dal.jpg"
+    },
+    {
+      "no": 9,
+      "nama": "dzal",
+      "link": "static/image/dzal.jpg"
+    },
+    {
+      "no": 10,
+      "nama": "ro",
+      "link": "static/image/ro.jpg"
+    },
+    {
+      "no": 11,
+      "nama": "zain",
+      "link": "static/image/zain.jpg"
+    },
+    {
+      "no": 12,
+      "nama": "sin",
+      "link": "static/image/sien.jpg"
+    },
+    {
+      "no": 13,
+      "nama": "syin",
+      "link": "static/image/syien.jpg"
+    },
+    {
+      "no": 14,
+      "nama": "shod",
+      "link": "static/image/shod.jpg"
+    },
+    {
+      "no": 15,
+      "nama": "dhod",
+      "link": "static/image/dhod.jpg"
+    },
+    {
+      "no": 16,
+      "nama": "tho",
+      "link": "static/image/tho.jpg"
+    },
+    {
+      "no": 17,
+      "nama": "dzho",
+      "link": "static/image/dzho.jpg"
+    },
+    {
+      "no": 18,
+      "nama": "ain",
+      "link": "static/image/aien.jpg"
+    },
+    {
+      "no": 19,
+      "nama": "ghoin",
+      "link": "static/image/ghoin.jpg"
+    },
+    {
+      "no": 20,
+      "nama": "fa",
+      "link": "static/image/fa.jpg"
+    },
+    {
+      "no": 21,
+      "nama": "qof",
+      "link": "static/image/qof.jpg"
+    },
+    {
+      "no": 22,
+      "nama": "kaf",
+      "link": "static/image/kaf.jpg"
+    },
+    {
+      "no": 23,
+      "nama": "lam",
+      "link": "static/image/lam.jpg"
+    },
+    {
+      "no": 24,
+      "nama": "miem",
+      "link": "static/image/miem.jpg"
+    },
+    {
+      "no": 25,
+      "nama": "nun",
+      "link": "static/image/nun.jpg"
+    },
+    {
+      "no": 26,
+      "nama": "wawu",
+      "link": "static/image/wawu.jpg"
+    },
+    {
+        "no": 27,
+        "nama": "ha",
+        "link": "static/image/ha.jpg"
+    },
+    {
+        "no": 28,
+        "nama": "lamalief",
+        "link": "static/image/lamalief.jpg"
+    },
+    {
+        "no": 29,
+        "nama": "hamzah",
+        "link": "static/image/hamzah.jpg"
+    },
+    {
+        "no": 30,
+        "nama": "ya",
+        "link": "static/image/ya.jpg"
+    }
+  ]
