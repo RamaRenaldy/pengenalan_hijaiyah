@@ -134,7 +134,7 @@ with st.container():
                         
                         # Tampilkan Hasil
                         st.success("分析成功！ Successfully analyzed!")
-                        st.metric(label="检测到字母  Letter Detected", value=predicted_class.capitalize(), delta=f"Akurasi: {confidence:.2f}%", delta_color="normal")
+                        st.metric(label="检测到字母  Letter Detected", value=predicted_class.capitalize(), delta=f"准确性 - Accuracy: {confidence:.2f}%", delta_color="normal")
                         
             elif not model_loaded:
                 st.error("Failed to load model.")
